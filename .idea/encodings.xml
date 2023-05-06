@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/src/Collections" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Derevo/TreeApp.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Masif" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/calculator" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/calculator/A1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/calculator/Calc.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/calculator/Calender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imageViewer" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ochered" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ochered/QueueApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/potoki" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/sortirovka" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/sortirovka/DuckSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sortirovka/FirstLastList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sortirovka/LinkListApp.java" charset="UTF-8" />
+  </component>
+</project>
