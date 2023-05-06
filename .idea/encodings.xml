@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
     <file url="file://$PROJECT_DIR$/src/Collections" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/src/Derevo/TreeApp.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Derevo/TreeApp.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Masif" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/calculator" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/calculator/A1.java" charset="UTF-8" />

@@ -8,8 +8,8 @@ public class TreeApp {
         theTree.insert(75, 1.9);
         Node found=theTree.find(25);
         if (found!= null)
-            System.out.println("ЕСТЬ ЗНАЧЕНИЕ  по ключу 25");
+            System.out.println("Р•СЃС‚СЊ С‡РёСЃР»Рѕ  25");
         else
-            System.out.println("нет значения по ключу 25");
+            System.out.println("РЅРµС‚ С‡РёСЃР»Р° 25");
     }
 }
